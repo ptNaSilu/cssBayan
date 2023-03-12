@@ -45,3 +45,22 @@ a {
     height: 100vh;
     margin: 0 auto;
 }
+
+.container {
+    width: 70vw;
+    max-width: 320px;
+    height: 100vh;
+    max-height: 568px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2em;
+
+    margin-top: 7vh;
+}
+
+.img_bayan{
+    margin: auto;
+    width: 25vw;
+}
